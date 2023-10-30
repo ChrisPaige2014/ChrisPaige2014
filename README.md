@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Setup SIEM In Azure](https://github.com/ChrisPaige2014/ActiveDirectoryLab/blob/main/README.md)
+- [Setup SIEM In Azure](https://github.com/ChrisPaige2014/Setup-SIEM-In-Azure/tree/main)
 
 <h2>📃 Certifitcations</h2>
 
