@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Sentinel Lab](https://github.com/ChrisPaige2014/Setup-SIEM-In-Azure/tree/main)
-- [Active Directory in Azure](https://github.com/ChrisPaige2014/Setup-SIEM-In-Azure/tree/main)
+- [Active Directory in Azure](https://github.com/ChrisPaige2014/ActiveDirectoryInAzure)
 
 
 <h2>📃 Certifitcations</h2>
