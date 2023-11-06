@@ -4,6 +4,7 @@
 
 - [Sentinel Lab](https://github.com/ChrisPaige2014/Setup-SIEM-In-Azure/tree/main)
 - [Active Directory in Azure](https://github.com/ChrisPaige2014/ActiveDirectoryInAzure)
+- [File Integrity Monitor](https://github.com/ChrisPaige2014/FileIntegrityMonitor)
 
 
 <h2>📃 Certifitcations</h2>
